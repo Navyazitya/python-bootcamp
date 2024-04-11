@@ -21,3 +21,18 @@ Quiz Solver: A quiz solver project where the user can attempt a quiz with predef
 Tic Tac Toe Game: A fully working Tic Tac Toe Game. It features a user-friendly interface and allows two players to take turns playing against each other
 
 - **Day4:** Dive into advanced data science with pandas, exploring real-world datasets like Spotify's. Master data manipulation, delve into DataFrames, and learn essential data cleaning techniques. Engage in practical exercises and quizzes for a comprehensive learning experience.
+
+- **Day4 Extraction:** Dive into the cleaned and processed Spotify dataset, providing an organized view of track, artist, album, and genre information. Perfect for data analysis and visualization, offering real-world insights for data science projects.
+
+- **Day5:**  Master visualization techniques with matplotlib and seaborn, including line graphs, scatter plots, bar graphs, and heat maps. Explore real-time data with interactive charts and elegant visualizations to enhance data analysis and interpretation.
+
+
+
+
+
+
+
+
+
+
+
