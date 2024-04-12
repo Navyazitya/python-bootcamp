@@ -26,7 +26,7 @@ Tic Tac Toe Game: A fully working Tic Tac Toe Game. It features a user-friendly 
 
 - **Day5:**  Master visualization techniques with matplotlib and seaborn, including line graphs, scatter plots, bar graphs, and heat maps. Explore real-time data with interactive charts and elegant visualizations to enhance data analysis and interpretation.
 
-
+- **Day6:** Exploring machine learning basics, data gathering, cleaning, and analysis, regression models, relationship modeling, scikit-learn, training and testing data, using heatmaps and plots on car data, and evaluating accuracy with R² score.
 
 
 
